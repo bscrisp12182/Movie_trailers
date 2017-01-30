@@ -21,7 +21,7 @@ To run the program:
 -------------------------------
 1. Open IDLE (Python GUI installed with Python 2.7)
 2. Go to the **File** pulldown menu and select **Open** then navigate to the folder where the three `.py` files were placed.
-3. Select `entertainment_center.py` and hit 'Open'
+3. Select `entertainment_center.py` and hit **Open**
 4. To run this module either hit the `F5` key or go to the **Run** pulldown menu and select **Run Module**.
 5. Your default browser should open with the generated webpage.
 6. Click on a movie to watch the trailer. 
